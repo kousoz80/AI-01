@@ -18,3 +18,8 @@
   
  複雑な問題解決が必要なときはディープラーニング等を利用した問題解決探索アルゴリズムを実装しようと思う。
    
+ ## ・本能
+以下に本能を図で描いてみた
+  
+![enter image description here](https://imgur.com/p0jVfQH.jpg)
+
