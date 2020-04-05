@@ -1,4 +1,5 @@
 
+
 # AI-01
 人工知能システム
   
@@ -22,4 +23,7 @@
 以下に本能を図で描いてみた
   
 ![enter image description here](https://imgur.com/p0jVfQH.jpg)
+
+  
+思考の構成要素は感情により重み付けされたシチュエーションである
 
