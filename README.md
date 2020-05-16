@@ -20,8 +20,9 @@
 ## ・本能
 
 以下に本能を図で描いてみた
-
-[![enter image description here](https://camo.githubusercontent.com/6bcbfcb6dc0df5738fa9974ead4d83710e140640/68747470733a2f2f696d6775722e636f6d2f70306a566651482e6a7067)
+  
+  
+![enter image description here](https://camo.githubusercontent.com/6bcbfcb6dc0df5738fa9974ead4d83710e140640/68747470733a2f2f696d6775722e636f6d2f70306a566651482e6a7067)
   
 思考の構成要素は感情により重み付けされたシチュエーションである
 
