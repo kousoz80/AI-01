@@ -39,16 +39,17 @@
 そのようなわけで人工知能には肉体(ロボット)が必要です。
 
   
-### VRゴーグルで操作するロボット
+## VRゴーグルで操作するロボット
     
-・本体
+## ・本体
   
-https://imgur.com/QDrLrW7.jpg
+![https://imgur.com/QDrLrW7.jpg](https://imgur.com/QDrLrW7.jpg)
 
   
-・VRゴーグルの画面
+## ・VRゴーグルの画面
   
-https://imgur.com/douoeYs.jpg
+  ![enter image description here](https://imgur.com/douoeYs.jpg)
+
   
   
 このロボットに視覚と聴覚と触覚とボディ操作と感情を記録させて、
