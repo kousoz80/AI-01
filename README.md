@@ -47,8 +47,7 @@
 ![https://imgur.com/QDrLrW7.jpg](https://imgur.com/QDrLrW7.jpg)
 
   
-## ・VRゴーグルの画面
-  
+## ・VRゴーグルの画面  
   ![enter image description here](https://imgur.com/douoeYs.jpg)
 
   
@@ -56,12 +55,17 @@
 このロボットに視覚と聴覚と触覚とボディ操作と感情を記録させて、
 そのデータを学習させれば、理論的には哲学的ゾンビができるはずです。
 おそらく、データ記録は少なくとも数年間連続して行わないと意味がないでしょう。
-  
+<br>
 幸いなことに、現在は大量のストレージとメモリが簡単に得ることができます。
-
+<br><br><br>
   
-  まずは自分が被検体となってデータ収集をおこなうことにします。
+  まずは自分が被検体となってデータ収集をおこなうことにします。<br>
     
+
+
+## ・動画
+https://www.youtube.com/watch?v=ty6JITsS7M8
+
 
 
 
